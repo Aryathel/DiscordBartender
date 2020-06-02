@@ -1,5 +1,5 @@
 # Discord Bartender
-This is a simple Discord bot that I created on a [Youtube stream](https://www.youtube.com/watch?v=D7mgd1G0ZWI) for one of my viewers. To request your own program to be made on stream, join my Discord server [here](https://discord.gg/kzAtEH6), and send a message in the #video-requests channel.
+This is a simple Discord bot that I created on a [Youtube stream](https://www.youtube.com/watch?v=D7mgd1G0ZWI) for one of my viewers. To request your own program to be made on stream, join my Discord server [here](https://discord.gg/kzAtEH6), and send a message in the `#video-requests` channel.
 
 # Setup
 To set this bot up for yourself, follow these steps:
